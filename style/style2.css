@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: coral;
+}
+
+#informacion {
+    background-color: white;
+    width: 1350px;
+    height: 1350px;
+    margin-left: 12%;
+}
+
+.img-compra {
+    width: 500px;
+    height: 500px;
+    margin-top: 75px;
+    margin-left: 75px;
+}
+
+.T1 {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
